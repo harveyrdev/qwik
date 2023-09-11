@@ -27,6 +27,10 @@
     "href": "https://www.hexa.center/",
     "tags": "saas"
   },
+    {
+    "href": "https://movie-app-v2-wheat.vercel.app/",
+    "tags": "movie-app"
+  },
   {
     "href": "https://img-models.vercel.app/",
     "tags": "ecommerce"
